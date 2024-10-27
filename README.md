@@ -3,6 +3,6 @@ I'm a passionate full-stack developer specializing in creating engaging, interac
 
 Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,threejs,express,node,mongodb,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,threejs,express,node,mongodb,python)](https://skillicons.dev)
 
 ![.....](https://github.com/user-attachments/assets/06f4da82-c0d6-42cb-beec-5c531d816bfb)
